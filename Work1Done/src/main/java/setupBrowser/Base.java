@@ -25,10 +25,10 @@ public class Base {
 	}
 	
 	
-//	public static WebDriver openOperaBroswer()
-//	{
-//		System.setProperty("webdriver.opera.driver","C:\\Users\\chama\\OneDrive\\Desktop\\Automation\\chromedriver_win32 (1)\\chromedriver.exe");
-//	    OperaDriver driver =new OperaDriver();
-//	     return driver;
-//	}
+// 	public static WebDriver openOperaBroswer()
+// 	{
+// 		System.setProperty("webdriver.opera.driver","C:\\Users\\chama\\OneDrive\\Desktop\\Automation\\chromedriver_win32 (1)\\chromedriver.exe");
+// 	    OperaDriver driver =new OperaDriver();
+// 	     return driver;
+// 	}
 }
